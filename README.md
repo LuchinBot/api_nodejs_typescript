@@ -2,6 +2,8 @@
 API with NodeJS and TypeScript
 
 # Install and Configuration
+## Install
 npm install
-npm run start
-npm run typescript
+## Initialize
+- npm run start
+- npm run typescript
